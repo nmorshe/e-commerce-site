@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+a {
+    color: darkslategray;
+    text-decoration: none;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: #666;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    display: grid;
+    grid-template-columns: 0.1fr 0.1fr 1fr 0.1fr;
+}
+
+header a {
+    color: white;
+}
+
+#headerHomeIcon {
+    justify-self: start;
+}
+
+#headerTitle {
+    justify-self: center;
+}
+
+#headerCartIcon {
+    justify-self: end;
+}
+
+#search {
+    margin-left: 10px;
+    display: flex;
+}
+
+#search input {
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+section {
+    display: -webkit-flex;
+    display: flex;
+}
+
+nav {
+    -webkit-flex: 0.5;
+    -ms-flex: 0.5;
+    flex: 0.5;
+    background: #ccc;
+    padding: 15px;
+    padding-right: 5px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0px;
+    cursor: pointer;
+}
+
+nav ul li {
+    padding-bottom: 5px;
+}
+
+nav ul li:hover {
+    color: blue;
+}
+
+main {
+    flex: 0.9;
+    padding-top: 20px;
+}
+
+article {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 0.25fr 1fr 0.25fr;
+    column-gap: 20px;
+}
+
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+footer a {
+    color: white;
+}
+
+@media (max-width: 600px) {
+    section {
+        -webkit-flex-direction: column;
+        flex-direction: column;
+    }
+}
+

@@ -1,0 +1,188 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Fridges"
+    },
+    {
+      "id": 2,
+      "title": "Kettles"
+    },
+    {
+      "id": 3,
+      "title": "Televisions"
+    }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "catId": 1,
+      "title": "KitchenAid - 27 Cu. Ft. French Door Refrigerator - Stainless Steel",
+      "productCode": "KRFF507HPS",
+      "image": "6260435_sd.jpg",
+      "price": 1900,
+      "sku": "6260435",
+      "description": "This <b>26.8 cu. ft.</b> french door refrigerator helps fresh produce stay \nthat way with the <b>ExtendFresh</b> Temperature Management System. A\n pull-out tray accommodates large platters with ease, while a \nFreshChill Temperature-Controlled Full-Width Pantry lets you \noptimize temperature and airflow for the specific food you're \nstoring. The refined interior design features elegant metallic \naccents, and a PrintShield finish resists exterior smudges. ",
+      "specs": {
+        "dimensions": "70.13 x 36.69 x 36.63 (H x W x D) ft",
+        "capacity": "26.8 cubic feet"
+      },
+      "features": [ "PrintShield finish", "ExtendFresh temperature management system", "Pull out tray", "FreshChill temperature-controlled full-width pantry", "In-Door-Ice system", "Measured water fill" ],
+      "stock": 5
+    },
+
+    {
+      "id": 2,
+      "catId": 1,
+      "title": "Insignia™ - 18 Cu. Ft. Top-Freezer Refrigerator with ENERGY STAR Certification - Stainless Steel",
+      "productCode": "NS-RTM18SS2",
+      "image": "6472692_sd.jpg",
+      "price": 500,
+      "sku": "6472692",
+      "description": "The Insignia NS-RTM18SS2 18 Cu. Ft. Top-Freezer Refrigerator has a\n separate top freezer compartment to store your frozen treats and \nkeep them organized on shelves or in the door trays. The fridge has \nthree shelves to organize your food, with two that adjust to fit taller\n items. Door trays comfortably store your bottles and condiments, \neven 1-gallon jugs, and the humidity-controlled crisper drawers \nkeep fruits and vegetables fresh. The refrigerator is also internally\n lit so you can find items easily. ",
+      "specs": {
+        "dimensions": "67 x 29.69 x 30.69 (H x W x D) ft",
+        "capacity": "18 cubic feet"
+      },
+      "features": [ "18 cu. ft. capacity", "Versatile placement", "Pull out tray", "Separate top freezer", "Optimal fridge storage", "5 adjustable door trays" ],
+      "stock": 5
+    },
+
+    {
+      "id": 3,
+      "catId": 1,
+      "title": "Café - 28.7 Cu. Ft. 4-Door French Door Smart Refrigerator with Dual Dispense Autofill Pitcher - Stainless Steel",
+      "productCode": "CGE29DP2TS1",
+      "image": "6546682_sd.jpg",
+      "price": 3700,
+      "sku": "6546682",
+      "description": "Nothing about your personal style is standard. So why should your\n appliances be? Cafe redefines the kitchen space with the\n Customizable Professional Collection, which gives you the ability to\n pair matte white, matte black or stainless appliance finishes with\n your choice of six distinct handle and knob options. Cafe curated\n hardware offerings include brushed bronze, brushed black,\n brushed copper, and brushed stainless, alongside the latest bold\n additions, brushed brass and flat black.  Get the look that truly\n reflects your personality with Cafe's unique finishes and exceptional\n styling. ",
+      "specs": {
+        "dimensions": "70 x 35.63 x 34.25 (H x W x D) ft",
+        "capacity": "28.7 cubic feet"
+      },
+      "features": [ "Dual-Dispense AutoFill Pitcher", "Convertible Drawer with Soft Freeze", "Unmatched Visibility Meets Undeniable Style", "Keep your Leafy Greens Twice as Long*", "Flatbread Freezer Compartment", "Glass Dividers in Convertible Drawer" ],
+      "stock": 5
+    },
+
+    {
+      "id": 4,
+      "catId": 1,
+      "title": "Samsung - BESPOKE 23 cu. ft. 4-Door French Door Counter Depth Smart Refrigerator with Family Hub - Matte Black Steel",
+      "productCode": "RF23BB89008MAA",
+      "image": "6493506cv11d.jpg",
+      "price": 3100,
+      "sku": "6493506",
+      "description": "Counter Depth 4-Door French Door Refrigerator with customizable\n and changeable door panels available in a variety of colors and\n finishes featuring Samsung’s Family Hub which lets you see inside\n your refrigerator, manage your family’s calendars, stream music,\n see who’s at the front door and much more, all right from your\n fridge. It also features the Beverage Center with both a water dispenser\n and AutoFill Water Pitcher. Plus a Dual Ice Maker with\n cubed ice and Ice Bites. ",
+      "specs": {
+        "dimensions": "70 x 35.25 x 28.75 (H x W x D) ft",
+        "capacity": "22.5 cubic feet"
+      },
+      "features": [ "Color Customization", "Family Hub", "Beverage Center", "Dual Ice Maker with Ice Bites", "FlexZone Drawer", "Modern Design" ],
+      "stock": 5
+    },
+
+    {
+      "id": 5,
+      "catId": 1,
+      "title": "LG - Counter-Depth MAX 24.5 Cu. Ft. 4-Door French Door Smart Refrigerator with Full-Convert Drawer - Stainless Steel",
+      "productCode": "LF25G8330S",
+      "image": "6573590_sd.jpg",
+      "price": 2500,
+      "sku": "6573590",
+      "description": "This 4-door Counter-Depth MAX refrigerator doesn’t just give you\n space — it brings a new level of organization, flexibility and style to\n your kitchen. Sleek flat-panel doors with dual handle design for\n easy opening add a premium feel. A slam-resistant door design \nallows the refrigerator doors to close softly and quietly. French \ndoors offer easy access to fresh foods, while double drawers below\n means no more rummaging through stacks of frozen items. The \nversatile Full-Convert Drawer converts from fridge to freezer with\n just a touch. Five temperature settings provide optimal storage for\n a range of fresh or frozen items. ",
+      "specs": {
+        "dimensions": "70.25 x 35.75 x 29.75 (H x W x D) ft",
+        "capacity": "24.5 cubic feet"
+      },
+      "features": [ "Counter-Depth MAX, 24.5 cu. ft.", "Full-Convert Drawer", "Dual Ice Maker", "Soft-Closing Doors", "Tall Ice and Water Dispenser", "Slim SpacePlus Ice System" ],
+      "stock": 5
+    },
+
+    {
+      "id": 6,
+      "catId": 1,
+      "title": "Whirlpool - 18.2 Cu. Ft. Top-Freezer Refrigerator - White",
+      "productCode": "WRT318FZDW",
+      "image": "1073095_sd.jpg",
+      "price": 600,
+      "sku": "1073095",
+      "description": "With wall-to-wall frameless glass shelves, humidity-controlled\n crispers, a Flexi-Slide bin and gallon-size door storage, this 18.2 cu.\n ft. Whirlpool WRT318FZDW top-freezer refrigerator provides plenty\n of room to house your groceries. ",
+      "specs": {
+        "dimensions": "65.88 x 29.75 x 31.38 (H x W x D) ft",
+        "capacity": "18.15 cubic feet"
+      },
+      "features": [ "Up-front electronic controls", "Wall-to-wall frameless glass shelves", "Humidity-controlled crispers", "Flexi-Slide bin", "Gallon-size door storage", "1 fixed glass freezer shelf" ],
+      "stock": 5
+    },
+
+    {
+      "id": 7,
+      "catId": 2,
+      "title": "Chefman - Lightning 1.8L Custom-Temp Electric Kettle with Tea Infuser - Stainless Steel",
+      "productCode": "RJ11-18-CTI-HP-DS",
+      "image": "b595ee35.jpg",
+      "price": 35,
+      "sku": "6599175",
+      "description": "The Chefman Lightning 1.8L Custom-Temp Kettle\n heats water lightning-fast for hot beverages, soup,\n ramen, oatmeal and more! Heating up to 25%\n faster than a glass tea kettle with lower wattage,\n you can boil 2 cups of water in as little as two\n minutes. Use the electric kettle temperature\n control to choose your preferred temperature or \nselect the preset “Boil” option.",
+      "specs": {
+        "dimensions": "9.45 x 5.91 x 9.06 (H x W x D) in",
+        "capacity": "1.8 liters"
+      },
+      "features": [ "Fast Boiling", "Digital Temperature Control", "Keep Warm Function", "Steep Loose-leaf Tea", "Trusted Quality" ],
+      "stock": 5
+    },
+
+    {
+      "id": 8,
+      "catId": 2,
+      "title": "Hamilton Beach - Kettle - Stainless Steel",
+      "productCode": "40865",
+      "image": "1664909_sd.jpg",
+      "price": 31,
+      "sku": "1664909",
+      "description": "Prepare soothing hot drinks with this 1.7L\n Hamilton Beach glass kettle. The auto-shut\n off function and boil-dry protection offer\n safety and easy operation, while the built-in\n mesh filter keeps your beverage limescale-\nfree. ",
+      "specs": {
+        "dimensions": "9.9 x 8.6 x 6.3 (H x W x D) in",
+        "capacity": "7.19 liters"
+      },
+      "features": [ "Fast Boiling", "Digital Temperature Control", "Keep Warm Function", "Steep Loose-leaf Tea", "Trusted Quality" ],
+      "stock": 5
+    },
+
+    {
+      "id": 9,
+      "catId": 3,
+      "title": "Roku - 32\" Class Select Series Full HD Smart RokuTV",
+      "productCode": "32R3B5",
+      "image": "aca0a4db.jpg",
+      "price": 130,
+      "sku": "6578344",
+      "description": "Roku Select Series Full HD TVs are thoughtfully designed for a\n delightful entertainment experience at an incredible value. Enjoy\n your streaming favorites in bright, full HD picture and catch every\n word with sound features like auto speech clarity and night mode.\n Switch to your inputs and watch free live TV right from the home\n screen, or use the voice remote to find movies, shows, or songs\n across thousands of streaming apps.",
+      "specs": {
+        "dimensions": "19 x 28.9 x 7.6 (H x W x D) in",
+        "remoteControlType": "Voice"
+      },
+      "features": [ "Made by Roku", "Bright picture", "Endless free TV", "Stream what you love", "State of the art" ],
+      "stock": 5
+    },
+
+    {
+      "id": 10,
+      "catId": 3,
+      "title": "Samsung - 65” Class DU7200 Series Crystal UHD 4K Smart Tizen TV (2024)",
+      "productCode": "UN65DU7200FXZA",
+      "image": "e037ea08.jpg",
+      "price": 400,
+      "sku": "6575140",
+      "description": "This essential TV features a range of contrast and color and smart\n capabilities. Enjoy your content with richer details, brighter images\n and clearer resolution with 4K Upscaling. ",
+      "specs": {
+        "dimensions": "34.6 x 57.2 x 10.5 (H x W x D) in",
+        "remoteControlType": "Standard"
+      },
+      "features": [ "PurColor", "4K Upscaling", "HDR", "Motion Xcelerator", "Mega Contrast" ],
+      "stock": 5
+    }
+  ]
+}
